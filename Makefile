@@ -33,3 +33,8 @@ long_description:
 	restview --long-description
 
 .PHONY: all
+
+[![CodeQL](https://github.com/Apidwalin/tzutalin-labelImg-master/actions/workflows/codeql-analysis.yml/badge.svg?branch=master)](https://github.com/Apidwalin/tzutalin-labelImg-master/actions/workflows/codeql-analysis.yml)
+
+[![CodeQL](https://github.com/Apidwalin/tzutalin-labelImg-master/actions/workflows/codeql-analysis.yml/badge.svg?branch=master&event=check_run)](https://github.com/Apidwalin/tzutalin-labelImg-master/actions/workflows/codeql-analysis.yml)
+
